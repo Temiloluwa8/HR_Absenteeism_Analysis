@@ -37,9 +37,14 @@ The dataset contains detailed records of employee absenteeism at work.
 ## Data Visualization
 
 
+![HR](https://github.com/user-attachments/assets/a7915d37-4133-40e4-8061-6c907ba62f52)
 
 
 
+
+
+--- 
+## Conclusion
 
 
 
