@@ -45,8 +45,7 @@ The dataset contains detailed records of employee absenteeism at work.
 
 --- 
 ## Conclusion
-
-
+The HR Absenteeism Dashboard provides a clear and data-driven view of employee absentee patterns, making it easier for HR teams to identify trends, uncover root causes, and take proactive steps to improve attendance. By analyzing demographic, lifestyle, and work-related factors, this dashboard empowers decision-makers to create targeted wellness programs, adjust workload strategies, and enhance overall workforce productivity. It serves as a valuable tool for turning raw data into actionable HR insights.
 
 
 
